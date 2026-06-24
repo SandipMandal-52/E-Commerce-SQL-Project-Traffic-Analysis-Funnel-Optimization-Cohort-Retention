@@ -1,6 +1,9 @@
 # 🏭 Maven Fuzzy Factory — End-to-End SQL Business Analysis
 
 > **A structured 5-phase SQL business analysis on a real e-commerce dataset — covering data quality, revenue trends, traffic attribution, product profitability, and cohort retention — executed entirely in SQL Server T-SQL across 472K sessions and 3 years of data.**
+>
+> <img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/d783d018-a3d1-4ef9-8c35-dbf168c9349e" />
+
 
 ---
 
